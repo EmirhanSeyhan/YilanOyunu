@@ -1,0 +1,98 @@
+C:\Users\emirhan\Desktop\YAZILIMLAR\ÖZEL\Radio-Simulasyon\Radio-Simulasyon\bin\Debug\Radio-Simulasyon.exe.config
+C:\Users\emirhan\Desktop\YAZILIMLAR\ÖZEL\Radio-Simulasyon\Radio-Simulasyon\bin\Debug\Radio-Simulasyon.exe
+C:\Users\emirhan\Desktop\YAZILIMLAR\ÖZEL\Radio-Simulasyon\Radio-Simulasyon\bin\Debug\Radio-Simulasyon.pdb
+C:\Users\emirhan\Desktop\YAZILIMLAR\ÖZEL\Radio-Simulasyon\Radio-Simulasyon\obj\Debug\Radio-Simulasyon.csprojResolveAssemblyReference.cache
+C:\Users\emirhan\Desktop\YAZILIMLAR\ÖZEL\Radio-Simulasyon\Radio-Simulasyon\obj\Debug\Radio_Simulasyon.Form1.resources
+C:\Users\emirhan\Desktop\YAZILIMLAR\ÖZEL\Radio-Simulasyon\Radio-Simulasyon\obj\Debug\Radio_Simulasyon.Properties.Resources.resources
+C:\Users\emirhan\Desktop\YAZILIMLAR\ÖZEL\Radio-Simulasyon\Radio-Simulasyon\obj\Debug\Radio-Simulasyon.csproj.GenerateResource.Cache
+C:\Users\emirhan\Desktop\YAZILIMLAR\ÖZEL\Radio-Simulasyon\Radio-Simulasyon\obj\Debug\Radio-Simulasyon.exe
+C:\Users\emirhan\Desktop\YAZILIMLAR\ÖZEL\Radio-Simulasyon\Radio-Simulasyon\obj\Debug\Radio-Simulasyon.pdb
+E:\Emirhan Seyhan\ÖZEL KODLAR\Radio-Simulasyon\Radio-Simulasyon\bin\Debug\Radio-Simulasyon.exe.config
+E:\Emirhan Seyhan\ÖZEL KODLAR\Radio-Simulasyon\Radio-Simulasyon\obj\Debug\Radio-Simulasyon.exe
+E:\Emirhan Seyhan\ÖZEL KODLAR\Radio-Simulasyon\Radio-Simulasyon\obj\Debug\Radio-Simulasyon.pdb
+E:\Emirhan Seyhan\ÖZEL KODLAR\Radio-Simulasyon\Radio-Simulasyon\bin\Debug\Radio-Simulasyon.exe
+E:\Emirhan Seyhan\ÖZEL KODLAR\Radio-Simulasyon\Radio-Simulasyon\bin\Debug\Radio-Simulasyon.pdb
+E:\Emirhan Seyhan\ÖZEL KODLAR\Radio-Simulasyon\Radio-Simulasyon\obj\Debug\Radio-Simulasyon.csprojResolveAssemblyReference.cache
+E:\Emirhan Seyhan\ÖZEL KODLAR\Radio-Simulasyon\Radio-Simulasyon\obj\Debug\Radio_Simulasyon.Form1.resources
+E:\Emirhan Seyhan\ÖZEL KODLAR\Radio-Simulasyon\Radio-Simulasyon\obj\Debug\Radio_Simulasyon.Properties.Resources.resources
+E:\Emirhan Seyhan\ÖZEL KODLAR\Radio-Simulasyon\Radio-Simulasyon\obj\Debug\Radio-Simulasyon.csproj.GenerateResource.Cache
+D:\Emirhan Seyhan\ÖZEL KODLAR\Radio-Simulasyon\Radio-Simulasyon\bin\Debug\Radio-Simulasyon.exe.config
+D:\Emirhan Seyhan\ÖZEL KODLAR\Radio-Simulasyon\Radio-Simulasyon\obj\Debug\Radio-Simulasyon.exe
+D:\Emirhan Seyhan\ÖZEL KODLAR\Radio-Simulasyon\Radio-Simulasyon\obj\Debug\Radio-Simulasyon.pdb
+D:\Emirhan Seyhan\ÖZEL KODLAR\Radio-Simulasyon\Radio-Simulasyon\bin\Debug\Radio-Simulasyon.exe
+D:\Emirhan Seyhan\ÖZEL KODLAR\Radio-Simulasyon\Radio-Simulasyon\bin\Debug\Radio-Simulasyon.pdb
+D:\Emirhan Seyhan\ÖZEL KODLAR\Radio-Simulasyon\Radio-Simulasyon\bin\Debug\mscorlib.dll
+D:\Emirhan Seyhan\ÖZEL KODLAR\Radio-Simulasyon\Radio-Simulasyon\bin\Debug\System.Net.Http.dll
+D:\Emirhan Seyhan\ÖZEL KODLAR\Radio-Simulasyon\Radio-Simulasyon\bin\Debug\System.Net.Http.xml
+D:\Emirhan Seyhan\ÖZEL KODLAR\Radio-Simulasyon\Radio-Simulasyon\bin\Debug\tr\mscorlib.resources.dll
+D:\Emirhan Seyhan\ÖZEL KODLAR\Radio-Simulasyon\Radio-Simulasyon\bin\Debug\normidna.nlp
+D:\Emirhan Seyhan\ÖZEL KODLAR\Radio-Simulasyon\Radio-Simulasyon\bin\Debug\normnfc.nlp
+D:\Emirhan Seyhan\ÖZEL KODLAR\Radio-Simulasyon\Radio-Simulasyon\bin\Debug\normnfd.nlp
+D:\Emirhan Seyhan\ÖZEL KODLAR\Radio-Simulasyon\Radio-Simulasyon\bin\Debug\normnfkc.nlp
+D:\Emirhan Seyhan\ÖZEL KODLAR\Radio-Simulasyon\Radio-Simulasyon\bin\Debug\normnfkd.nlp
+D:\Emirhan Seyhan\ÖZEL KODLAR\Radio-Simulasyon\Radio-Simulasyon\obj\Debug\Radio-Simulasyon.csprojResolveAssemblyReference.cache
+D:\Emirhan Seyhan\ÖZEL KODLAR\Radio-Simulasyon\Radio-Simulasyon\obj\Debug\Radio_Simulasyon.Form1.resources
+D:\Emirhan Seyhan\ÖZEL KODLAR\Radio-Simulasyon\Radio-Simulasyon\obj\Debug\Radio_Simulasyon.Properties.Resources.resources
+D:\Emirhan Seyhan\ÖZEL KODLAR\Radio-Simulasyon\Radio-Simulasyon\obj\Debug\Radio-Simulasyon.csproj.GenerateResource.Cache
+E:\Emirhan Seyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\bin\Debug\Radio-Simulasyon.exe.config
+E:\Emirhan Seyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\obj\Debug\Radio-Simulasyon.exe
+E:\Emirhan Seyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\obj\Debug\Radio-Simulasyon.pdb
+E:\Emirhan Seyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\bin\Debug\Radio-Simulasyon.exe
+E:\Emirhan Seyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\bin\Debug\Radio-Simulasyon.pdb
+E:\Emirhan Seyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\obj\Debug\Radio-Simulasyon.csprojResolveAssemblyReference.cache
+E:\Emirhan Seyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\obj\Debug\Radio_Simulasyon.Form1.resources
+E:\Emirhan Seyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\obj\Debug\Radio_Simulasyon.Properties.Resources.resources
+E:\Emirhan Seyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\obj\Debug\Radio-Simulasyon.csproj.GenerateResource.Cache
+D:\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\bin\Debug\Radio-Simulasyon.exe.config
+D:\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\bin\Debug\Radio-Simulasyon.exe
+D:\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\bin\Debug\Radio-Simulasyon.pdb
+D:\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\bin\Debug\mscorlib.dll
+D:\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\bin\Debug\System.Net.Http.dll
+D:\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\bin\Debug\System.Net.Http.xml
+D:\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\bin\Debug\tr\mscorlib.resources.dll
+D:\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\bin\Debug\normidna.nlp
+D:\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\bin\Debug\normnfc.nlp
+D:\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\bin\Debug\normnfd.nlp
+D:\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\bin\Debug\normnfkc.nlp
+D:\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\bin\Debug\normnfkd.nlp
+D:\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\obj\Debug\Radio_Simulasyon.Form1.resources
+D:\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\obj\Debug\Radio_Simulasyon.Properties.Resources.resources
+D:\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\obj\Debug\Radio-Simulasyon.csproj.GenerateResource.Cache
+D:\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\obj\Debug\Radio-Simulasyon.exe
+D:\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\obj\Debug\Radio-Simulasyon.pdb
+D:\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\obj\Debug\Radio-Simulasyon.csprojResolveAssemblyReference.cache
+E:\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\bin\Debug\Radio-Simulasyon.exe.config
+E:\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\obj\Debug\Radio-Simulasyon.exe
+E:\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\obj\Debug\Radio-Simulasyon.pdb
+E:\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\bin\Debug\Radio-Simulasyon.exe
+E:\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\bin\Debug\Radio-Simulasyon.pdb
+E:\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\obj\Debug\Radio-Simulasyon.csprojResolveAssemblyReference.cache
+E:\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\obj\Debug\Radio_Simulasyon.Form1.resources
+E:\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\obj\Debug\Radio_Simulasyon.Properties.Resources.resources
+E:\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\obj\Debug\Radio-Simulasyon.csproj.GenerateResource.Cache
+E:\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\obj\Debug\Radio_Simulasyon.Baslangıc.resources
+E:\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\obj\Debug\Radio_Simulasyon.Duvarlı.resources
+C:\Users\emirhan\Desktop\KODLAR\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\bin\Debug\Radio-Simulasyon.exe.config
+C:\Users\emirhan\Desktop\KODLAR\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\obj\Debug\Radio-Simulasyon.exe
+C:\Users\emirhan\Desktop\KODLAR\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\obj\Debug\Radio-Simulasyon.pdb
+C:\Users\emirhan\Desktop\KODLAR\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\bin\Debug\Radio-Simulasyon.exe
+C:\Users\emirhan\Desktop\KODLAR\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\bin\Debug\Radio-Simulasyon.pdb
+C:\Users\emirhan\Desktop\KODLAR\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\obj\Debug\Radio-Simulasyon.csprojResolveAssemblyReference.cache
+C:\Users\emirhan\Desktop\KODLAR\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\obj\Debug\Radio_Simulasyon.Baslangıc.resources
+C:\Users\emirhan\Desktop\KODLAR\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\obj\Debug\Radio_Simulasyon.Duvarlı.resources
+C:\Users\emirhan\Desktop\KODLAR\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\obj\Debug\Radio_Simulasyon.Form1.resources
+C:\Users\emirhan\Desktop\KODLAR\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\obj\Debug\Radio_Simulasyon.Properties.Resources.resources
+C:\Users\emirhan\Desktop\KODLAR\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\obj\Debug\Radio-Simulasyon.csproj.GenerateResource.Cache
+C:\Users\emirhan\Desktop\KODLAR\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme - Kopya\Radio-Simulasyon\bin\Debug\Radio-Simulasyon.exe.config
+C:\Users\emirhan\Desktop\KODLAR\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme - Kopya\Radio-Simulasyon\obj\Debug\Radio-Simulasyon.exe
+C:\Users\emirhan\Desktop\KODLAR\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme - Kopya\Radio-Simulasyon\obj\Debug\Radio-Simulasyon.pdb
+C:\Users\emirhan\Desktop\KODLAR\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme - Kopya\Radio-Simulasyon\bin\Debug\Radio-Simulasyon.exe
+C:\Users\emirhan\Desktop\KODLAR\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme - Kopya\Radio-Simulasyon\bin\Debug\Radio-Simulasyon.pdb
+C:\Users\emirhan\Desktop\KODLAR\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme - Kopya\Radio-Simulasyon\obj\Debug\Radio-Simulasyon.csprojResolveAssemblyReference.cache
+C:\Users\emirhan\Desktop\KODLAR\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme - Kopya\Radio-Simulasyon\obj\Debug\Radio_Simulasyon.Baslangıc.resources
+C:\Users\emirhan\Desktop\KODLAR\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme - Kopya\Radio-Simulasyon\obj\Debug\Radio_Simulasyon.Duvarlı.resources
+C:\Users\emirhan\Desktop\KODLAR\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme - Kopya\Radio-Simulasyon\obj\Debug\Radio_Simulasyon.Form1.resources
+C:\Users\emirhan\Desktop\KODLAR\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme - Kopya\Radio-Simulasyon\obj\Debug\Radio_Simulasyon.Properties.Resources.resources
+C:\Users\emirhan\Desktop\KODLAR\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme - Kopya\Radio-Simulasyon\obj\Debug\Radio-Simulasyon.csproj.GenerateResource.Cache
+D:\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\obj\Debug\Radio_Simulasyon.Baslangıc.resources
+D:\EmirhanSeyhan\ÖZEL KODLAR\Yılan-Oyunu-Deneme\Radio-Simulasyon\obj\Debug\Radio_Simulasyon.Duvarlı.resources
